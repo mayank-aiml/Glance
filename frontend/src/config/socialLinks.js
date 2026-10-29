@@ -1,5 +1,6 @@
-// Social and external links — edit these to update the footer
+// Social and external links
 export const SOCIAL_LINKS = {
-  linkedin: 'YOUR_LINKEDIN_URL',
-  github: 'YOUR_GITHUB_URL',
+  linkedin: 'https://www.linkedin.com/in/mayank-kailas-tiwari/',
+  github: 'https://github.com/mayank-aiml',
+  portfolio: 'https://mayankt.tech',
 };

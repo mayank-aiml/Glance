@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Linkedin, Github } from 'lucide-react';
+import { Linkedin, Github, Globe } from 'lucide-react';
 import { SOCIAL_LINKS } from '../config/socialLinks';
 import './Footer.css';
 
@@ -56,6 +56,16 @@ export default function Footer() {
             >
               <Github size={16} aria-hidden="true" />
               GitHub
+            </a>
+            <a
+              href={SOCIAL_LINKS.portfolio}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="footer-social-link"
+              aria-label="Portfolio website"
+            >
+              <Globe size={16} aria-hidden="true" />
+              Portfolio
             </a>
           </div>
         </div>

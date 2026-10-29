@@ -208,5 +208,9 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Crafted with care by <a href="https://github.com/mayank-aiml">Mayank</a>
+  Crafted with care by <strong>Mayank Tiwari</strong><br />
+  <a href="https://www.linkedin.com/in/mayank-kailas-tiwari/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/mayank-aiml">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://mayankt.tech">Portfolio</a>
 </p>
+
