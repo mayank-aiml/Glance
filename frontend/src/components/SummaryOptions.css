@@ -1,0 +1,42 @@
+.summary-options {
+  margin-bottom: 1.25rem;
+}
+
+.summary-options-label {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-bottom: 0.6rem;
+}
+
+.summary-options-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.summary-option-btn {
+  padding: 0.4rem 0.9rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-default);
+  background: var(--bg-surface);
+  color: var(--text-secondary);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+  font-family: inherit;
+}
+
+.summary-option-btn:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+  border-color: var(--color-warm-taupe);
+}
+
+.summary-option-btn--active {
+  background: var(--bg-selected);
+  color: var(--text-primary);
+  border-color: var(--color-warm-taupe);
+  font-weight: 600;
+}
